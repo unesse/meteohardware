@@ -1,0 +1,20 @@
+.form-div{
+	margin-top: 100px;
+}
+.input-label{
+	background: #009688;
+	color:#fff;
+	padding: 30px;
+	transition: 0.3s;
+}
+.input-label:hover{
+	background: #26a69a;
+	cursor: pointer;
+
+}
+.fa {
+	margin-right:10px;
+}
+#file{
+	display: none;
+}
