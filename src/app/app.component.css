@@ -1,0 +1,28 @@
+a.noclick       {
+    pointer-events: none;
+    color : #b7b7b7;
+  }
+ a#click{
+    cursor: pointer;
+ } 
+ .modal-content{
+     width: 390px;
+     height: 408px;
+ }
+#loginModal{
+    padding-top: 50px;
+    padding-left: 205px;
+}
+#alertError{
+    padding: 8px !important;
+    margin-bottom: 3px !important;
+}
+#alertError2{
+    height: 40px;
+}
+.modal-body{
+    padding-top: 8px;
+}
+a{
+    cursor: pointer;
+}
